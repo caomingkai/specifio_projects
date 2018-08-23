@@ -20,16 +20,13 @@ Developped Admin Panel for both internal and external use, with 3-level privileg
     alt="Doc Editor" width="400" height="300" border="3" /></a>
 
 - **Auth0 integration**
-
-    ![Admin Panel](https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/auth0.png)
-
+    <img width="400" alt="auth0" src="https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/auth0.png">
+    
 - **Manage doc plans**
-
-    ![Admin Panel](https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/docPlan.png)
+    <img width="400" alt="docPlan.png" src="https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/docPlan.png">
 
 - **Manage profile**
-
-    ![Admin Panel](https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/profile.png)
+     <img width="400" alt="profile.png" src="https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/profile.png">
 
 
 
