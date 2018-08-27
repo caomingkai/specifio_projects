@@ -15,10 +15,10 @@ Developped Admin Panel for both internal and external use, with 3-level privileg
 4. Doc Plans can be shared among registered users within your firm.
 #### 2. Snapshots for key features
 
-- **Set layout, format and content of their Doc Plans**
+- **[Video] Live demo preview for settings like layout, format and content of their Doc Plans**
 
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=Gl8TfGINxko"  target="_blank"><img src="http://img.youtube.com/vi/Gl8TfGINxko/0.jpg" 
-    alt="Doc Editor" width="400" height="300" border="3" /></a>
+    alt="Doc Editor" width="400" height="300" border="8" /></a>
 
 - **Auth0 integration**
 
