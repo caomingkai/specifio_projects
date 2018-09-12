@@ -40,6 +40,12 @@ Developped Admin Panel for both internal and external use, with 3-level privileg
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=Gl8TfGINxko"  target="_blank"><img src="http://img.youtube.com/vi/Gl8TfGINxko/0.jpg" 
     alt="Doc Editor" width="400" height="300" border="8" /></a>
 
+- **Dashboard**
+
+    <img width="400" alt="auth0" src="https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/dashboard1.png">
+    
+    <img width="400" alt="auth0" src="https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/dashboard2.png">
+    
 - **Auth0 integration**
 
     <img width="400" alt="auth0" src="https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/auth0.png">
