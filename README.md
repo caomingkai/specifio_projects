@@ -39,8 +39,8 @@ Developped Admin Panel for both internal and external use, with 3-level privileg
 
 - **Settings(layout, format and content of their Doc Plans)**
 
-    <img width="400" alt="Layout Setting" src="https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/LayoutSetting.png">
-    
+    <img width="800" alt="Layout Setting" src="https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/LayoutSetting.png">
+
 - **Dashboard**
 
     <img width="400" alt="Dashboard" src="https://github.com/caomingkai/specifio_projects/raw/master/Admin%20Panel/dashboard1.png">
